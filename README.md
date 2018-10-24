@@ -10,5 +10,6 @@ Fill from these sources:
 * C++ FAQs
 * examples of cpp gotchas dispersed around the web
 * github gists
+* stackoverflow on C++
 
 Each gotcha got to have (a) task (b) explanation and (c) answer. Maybe, also (d) language standard comment.
